@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, me chamo Luiza ✨</h1>
 
 <p align="center">
-  Estudante de <b>Ciência da Computação</b> | Foco em <b>full-stack</b><br/>
+  Estudante de <b>Ciência da Computação</b> | <b>full-stack</b><br/>
   💻 Desenvolvimento Web 
 </p>
 
