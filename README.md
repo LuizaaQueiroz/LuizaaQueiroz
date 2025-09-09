@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">✨ Olá, me chamo Luiza ✨</h1>
 
-<!--
-**LuizaaQueiroz/LuizaaQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de <b>Ciência da Computação</b> | Foco em <b>full-stack</b><br/>
+  💻 Desenvolvimento Web 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizaaQueiroz-alt-0w0&show_icons=true&theme=catppuccin_mocha" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaaQueiroz-alt-0w0&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" height="180em" />
+</div>
+
+---
+
+### 🚀 Tecnologias que uso:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,mysql,postgres,git,github" />
+</div>
